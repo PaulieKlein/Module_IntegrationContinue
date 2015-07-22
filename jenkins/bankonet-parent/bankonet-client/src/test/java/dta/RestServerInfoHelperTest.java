@@ -29,7 +29,7 @@ public class RestServerInfoHelperTest {
 	@Test
 	public void testPort() {
 		String port = helper.getRestServerInfo().getPort();
-		assertEquals("8080", port);
+		assertEquals("8090", port);
 	}
 
 }
