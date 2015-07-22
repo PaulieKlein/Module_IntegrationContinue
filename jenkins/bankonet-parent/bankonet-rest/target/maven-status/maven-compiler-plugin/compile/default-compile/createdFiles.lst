@@ -1,6 +1,0 @@
-com\bankonet\model\Employe.class
-com\bankonet\model\Adresse.class
-com\bankonet\filter\CorsFilter.class
-com\bankonet\jaxrs\ApplicationConfig.class
-com\bankonet\resource\EmployeResource.class
-com\bankonet\service\EmployeService.class
